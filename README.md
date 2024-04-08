@@ -1,5 +1,5 @@
 # Wikimedia-data-consumer
-Real-Time Wikimedia Data Consumer with Apache Kafka and Spring Boot 3
+Real-Time Wikimedia Data Consumer Application with Apache Kafka and Spring Boot 3
 
 ## Description
 This repository hosts a microservices-based Java application developed with Spring Boot, designed to consume real-time data from Wikimedia using okhttp-eventsource and Apache Kafka. By leveraging Kafka's event streaming capabilities and Spring Boot's flexibility, the application enables seamless processing and persistence of Wikimedia data into a database.
