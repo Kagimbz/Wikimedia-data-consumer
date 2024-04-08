@@ -11,7 +11,7 @@ This repository hosts a microservices-based Java application developed with Spri
 
 * Data Persistence: Consumed Wikimedia data is efficiently persisted into a database by the consumer microservice, ensuring data durability and reliability.
 
-* Real-Time Processing: Leveraging Kafka's event streaming capabilities, the producer microservice processes incoming data in real-time.
+* Real-Time Processing: Leveraging Kafka's event streaming capabilities, the microservices process incoming data in real-time.
 
 * Scalability: The microservices architecture allows for horizontal scaling of individual components to handle increasing data volumes and processing requirements.
 
